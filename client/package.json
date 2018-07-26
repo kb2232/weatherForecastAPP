@@ -1,0 +1,19 @@
+{
+  "name": "weatherforecast",
+  "version": "1.0.0",
+  "description": "- This project uses weather api to display five day weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kb2232/weatherForecastAPP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kb2232/weatherForecastAPP/issues"
+  },
+  "homepage": "https://github.com/kb2232/weatherForecastAPP#readme"
+}
